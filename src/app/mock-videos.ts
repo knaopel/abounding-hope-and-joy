@@ -14,7 +14,7 @@ export const VIDEOS: Video[] = [
         name: '3Declarations-DemolishingTheRealStrongHolds.m4v'
     },
     {
-        description: 'Session 4\nThe Power of Hope:\nLivingfrom a Higher Perspective',
+        description: 'Session 4\nThe Power of Hope:\nLiving from a Higher Perspective',
         name: '4Hope-LivingFromAHigherPerspective.m4v'
     },
     {
